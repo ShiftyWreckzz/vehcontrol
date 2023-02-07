@@ -137,4 +137,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Shifty's CSS Edit
 
-![Preview](https://imgur.com/oO7M9Dw)
+https://imgur.com/oO7M9Dw
